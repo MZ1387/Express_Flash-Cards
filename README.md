@@ -8,3 +8,11 @@ A Flash Cards application that uses Pug and Express.
 - Express
 - Body Parser
 - Cookie Parser
+
+## Concepts Implemented
+
+- Routing
+- Cookies
+- Middleware
+- Error Handling Middleware
+- HTTP Requests
