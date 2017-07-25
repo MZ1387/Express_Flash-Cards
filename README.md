@@ -6,4 +6,5 @@ A Flash Cards application that uses Pug and Express.
 
 - Pug
 - Express
-- Cookies
+- Body Parser
+- Cookie Parser
