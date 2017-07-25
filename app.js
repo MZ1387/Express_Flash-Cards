@@ -8,6 +8,7 @@ const PORT = process.env.PORT || 3000;
 
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
+app.use('/static', express.static('public'));
 
 app.set('view engine', 'pug');
 
