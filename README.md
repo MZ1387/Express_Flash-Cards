@@ -1,6 +1,6 @@
-# Pug_Flash-Cards
+# Express_Flash-Cards
 
-A Flash Cards application that uses Pug and Express.
+A Flash Cards application that uses Express with the Pug template engine.
 
 ## Technologies Used
 
